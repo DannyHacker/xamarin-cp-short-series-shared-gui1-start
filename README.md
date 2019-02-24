@@ -1,0 +1,1 @@
+# xamarin-cp-short-series-shared-gui1-start
